@@ -1,0 +1,12 @@
+div.lengket{
+    position: sticky;
+    top: 30px;
+    padding: 10px;
+    background-color: aqua;
+    border: 2px solid black;
+    text-align: center;
+}
+
+p{
+    width: 100px;
+}

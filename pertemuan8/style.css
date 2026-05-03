@@ -1,0 +1,45 @@
+/* *{
+    border:1px solid red;
+} */
+
+h3{
+    color: blueviolet;
+    font-size: 12px;
+}
+
+.textberwarna{
+    color: brown;
+    font-size: 10px;
+}
+.bc{
+    background-color: rgb(96, 255, 255);
+}
+
+#header{
+    color: cadetblue;
+    font-size: 12px;
+    background-color: antiquewhite;
+    height: 25;
+    width: 25px;
+}
+
+input[type="text"]{
+    background-color: none;
+    color: rgb(17, 242, 242);
+    font-size: 10px;
+    padding: 35px;
+    border: 1px solid black;
+}
+
+button:hover{
+    color: red;
+    background-color: azure;
+    border: 1 px solid black;
+
+    
+}
+
+p::first-line{
+    font-size: 12px;
+    color: red;
+}

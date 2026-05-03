@@ -1,0 +1,72 @@
+h1{
+    color: forestgreen  ;
+}
+h2{
+    color: rgb(255, 160, 122);
+}
+h3{
+    color: #B22222;
+}
+
+body{
+    /* background-color: antiquewhite; */
+    /* background-image: url(/pertemuan9/Logo-Untad-Baru.jpg); */
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiY9ZlRaebBuF7nqBX7Q-7Q1V9rM8Wnov0NQ&s); */
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+h4{
+    color: hsl(0, 74%, 123%);
+    background-color: blueviolet;
+}
+
+.text-align{
+    text-align: justify;
+}
+.dekorasi{
+    text-decoration: underline red double 0.5px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform:lowercase ;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.indent{
+    text-indent: 50px;
+}
+.letter-spacing{
+    letter-spacing: 5px;
+}
+
+.line-height{
+    line-height: 10;
+}
+.word-spacing{
+    word-spacing: 10px;
+}
+.white-space{
+    /* white-space: nowrap ; */
+}
+
+.font-family{
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bolder;
+
+    
+}
+.size{
+    background-color: antiquewhite;
+    padding: 20px 50px;
+    margin: 10px;
+}
+
+

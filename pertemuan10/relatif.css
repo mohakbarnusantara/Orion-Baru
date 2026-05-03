@@ -1,0 +1,14 @@
+.container{
+    background: plum;
+    width: 500px;
+    height: 150px;
+}
+
+.kotak-biru{
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
